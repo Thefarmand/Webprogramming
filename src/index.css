@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.drivers {
+  height: 100px;
+}
+
+.drivers h3 {
+  padding-top: 30px;
+  font-size: 32px;
+  text-align: center;
+}
+
+.namelist {
+  margin-top: 15px;
+}
+
+li.item {
+  list-style-type: none;
+  text-align: left;
+}
+
+tr.item th{
+  padding: 10px 10px;
+}
+
+tr.item th h4 a{
+  color: black;
+
+}
+
+tr.item th h4 a:hover{
+  color: blue;
+  font-weight: bold;
+}
+
+h4 {
+  text-align: left;
+  font-size: 14px;
+}
+
+.container {
+  background-color: lightgray;
+}
+
+.nav {
+  padding-left: 42px;
+}
+
+li a {
+  color: black;
+}
+
+
+.container h1 {
+  padding-left: 5%;
+}
+
+.navbar-expand-lg {
+  background-color: yellow;
+}
+
+li.nav-item.nav-link{
+padding-right: 200px;
+}
+
+li.nav-item.nav-link a:hover{
+  font-weight: bold;
+}
+
+ul {
+  padding-left: 5px;
+}
+
+.container h1{
+  padding-left: 5px;
+}
+
+.table th{
+  padding: 10px 10px;
+}
+
+ul.nav.navbar-nav.ml-auto{
+  margin-right: 65.5%;
+}
+
